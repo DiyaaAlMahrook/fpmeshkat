@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@500&family=Roboto:wght@300;400;500;700&display=swap');
+
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #eee;
+}
+
+header{
+    display: flex;
+    margin-left: 10px;
+    padding: 0;
+    margin-top: 20px;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    margin: 50px;
+}
+
+header nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+}
+
+header .center{
+    text-align: center;
+    margin-left: 360px;
+    padding: 0;
+    align-items: center;
+
+}
+
+header .center h3{
+    margin-left: 20px;
+}
+
+header .right{
+    margin-left: 300px;
+   
+}
+
+header .right button{
+    margin-left: 30px;
+}
+
+.content{
+    background-color: white;
+    margin: 0 50px;
+    padding: 50px;
+}
+
+.content .topcontent {
+   text-align: center;
+}
+
+.content1 img{
+    width: 0px;
+    height: 50px;
+}
+
+.post img{
+    width: 400px;
+    height: 300px;
+}
+
+.post{
+    border: 2px solid rgb(227, 216, 216);
+    box-shadow: 50px;
+}
+
+.maincontent{
+    display: flex;
+   
+}
+
+.maincontent .post{
+    margin-left: 30px;
+}
+
+.maincontent p{
+    font-weight: 100;
+}
+
+button{
+    border: 30px;
+    border-radius: 10px;
+}
+
+#b1{
+    background-color: rgb(104, 104, 233);
+    color: white;
+}
+
+.center h3{
+    font-weight: 400;
+}
+
+#h3{
+    font-weight: 700;
+    text-decoration: underline blue;
+}
+header{
+    box-shadow: 30% black;
+}
+
+#i1{
+    margin-left: 300px;
+    color: aqua;
+}
